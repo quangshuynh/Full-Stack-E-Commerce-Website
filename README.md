@@ -1,5 +1,5 @@
 # This is a personal project of mine that uses HTML, CSS, React JS, MongoDB, Express & Node JS. 
-This is a full-stack e-commerce website project.
+This is a full-stack e-commerce website project by Quang Huynh. Started 01/05/24.
 
 
 
