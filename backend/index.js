@@ -14,7 +14,7 @@ app.use(cors());
 mongoose.connect("mongodb+srv://greatstack:<password>@cluster0.ogckvzc.mongodb.net/e-commerce");
 
 
-//Image Storage Engine 
+// Image Storage Engine 
 const storage = multer.diskStorage({
     destination: './upload/images',
     filename: (req, file, cb) => {
