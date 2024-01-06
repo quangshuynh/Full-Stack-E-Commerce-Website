@@ -11,3 +11,4 @@
 ![Cart](https://cdn.discordapp.com/attachments/931674944063029259/1192984287088230480/image.png?ex=65ab1032&is=65989b32&hm=36bfe46616fa6a098fae04891374df2811eac1e1f7ac1d3c1d392aba4a46888b&)
 
 # Login
+![Signup](https://cdn.discordapp.com/attachments/931674944063029259/1192985126536216596/image.png?ex=65ab10fa&is=65989bfa&hm=bba64fbc19e6f67d053541d188559c26a6354e8802386876aeb850572b1aa16c&)
