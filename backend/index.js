@@ -11,7 +11,7 @@ app.use(express.json());
 app.use(cors());
 
 // Database Connection With MongoDB
-mongoose.connect("mongodb+srv://greatstack:<password>@cluster0.ogckvzc.mongodb.net/e-commerce");
+mongoose.connect("mongodb+srv://quang:<password>@e-commerce.rzf1reo.mongodb.net/?retryWrites=true&w=majority");
 
 
 // Image Storage Engine 
